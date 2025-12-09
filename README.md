@@ -1,4 +1,4 @@
-Heyooo
+
 # My First Repository
 This is my first repository on GitHub! 
-I am learning to edit files in different branches.
+I am learning to edit files in different branches for the first time ever.
